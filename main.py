@@ -1,6 +1,3 @@
-""" AI PROJECT FOR SEMESTER 5, B.TECH IT & MI, Cluster Innovation Centre
-       Submitted by Akash Erugurala (11903) and Ankit Kumar Bhagat(11907)"""
-
 """ Automatic Number Plate Recognition"""
 
 import cv2
